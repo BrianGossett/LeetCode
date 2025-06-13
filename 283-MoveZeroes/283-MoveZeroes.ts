@@ -1,4 +1,4 @@
-// Last updated: 6/13/2025, 12:39:28 PM
+// Last updated: 6/13/2025, 12:51:39 PM
 /**
  Do not return anything, modify nums in-place instead.
  */
@@ -11,5 +11,4 @@ function moveZeroes(nums: number[]): void {
         nums.splice(n-i,1)
         nums.push(0)
         })
-    console.log(nums)
 };
