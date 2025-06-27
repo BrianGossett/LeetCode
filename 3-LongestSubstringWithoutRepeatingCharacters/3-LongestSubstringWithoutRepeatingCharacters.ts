@@ -1,4 +1,4 @@
-// Last updated: 6/27/2025, 12:45:33 PM
+// Last updated: 6/27/2025, 12:46:11 PM
 function lengthOfLongestSubstring(s: string): number {
     let longestValue = ''
     let potintialLonges = ''
